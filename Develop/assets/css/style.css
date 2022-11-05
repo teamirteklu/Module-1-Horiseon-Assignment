@@ -26,12 +26,13 @@ hgroup h1 {
     font-size: 48px;
 }
 
+/*Style for navigation buttons*/
 
 nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
@@ -53,6 +54,8 @@ p {
     font-size: 16px;
 }
 
+/*Style info for center image*/
+
 .hero {
     height: 800px;
     width: 100%;
@@ -61,6 +64,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/*Style for main-info images*/
 
 .float-left {
     float: left;
@@ -78,6 +83,8 @@ p {
     margin-left: 20px;
 }
 
+/*Style info for benefits information on the side*/
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -85,7 +92,7 @@ p {
     float: right;
     width: 20%;
     height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
 
@@ -109,14 +116,14 @@ p {
 }
 
 
-/*---------------------------------*/
+/*Style for main-info*/
 
 
 .main-info {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
@@ -130,6 +137,7 @@ p {
     font-size: 36px;
 }
 
+/*Style for footer*/
 
 footer {
     padding: 30px;
