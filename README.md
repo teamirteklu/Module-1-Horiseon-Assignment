@@ -1,2 +1,2 @@
 # Module-1-Horiseon-Assignment
-Module 1 Challenge Assignment
+For this Challenge, I was given a website to refactor. I have refactored the code for this website to fit semantic HTML standards and have modified the CSS selectors and properties to fit. Repeating code within CSS file has been deleted or altered. Classes and ids within the HTML file have been modified as well. Comments have been added to CSS file. Title has been added to website and alt attributes have been added to all images.
